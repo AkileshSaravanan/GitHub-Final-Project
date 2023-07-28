@@ -1,0 +1,19 @@
+1. Task 1: Create a GitHub repository:  https://github.com/AkileshSaravanan/GitHub-Final-Project
+
+2. Task2: Add a license file : https://github.com/AkileshSaravanan/GitHub-Final-Project/blob/main/LICENSE
+
+3. Task 3: Update the README file : https://github.com/AkileshSaravanan/GitHub-Final-Project/blob/main/README.md
+
+4. Task 4: Add a code of conduct : https://github.com/AkileshSaravanan/GitHub-Final-Project/blob/main/CODE_OF_CONDUCT.md
+
+5. Task 5: Add contribution guidelines : https://github.com/AkileshSaravanan/GitHub-Final-Project/blob/main/CONTRIBUTING.md
+
+6. Task 6: Host the script file : https://github.com/AkileshSaravanan/GitHub-Final-Project/blob/main/simple-interest.sh
+
+7. Task 7: Add your GitHub username to the authors section : https://github.com/AkileshSaravanan/GitHub-Final-Project/blob/main/simple-interest.sh
+
+8. Task 8: Fork the repository : https://github.com/AkileshSaravanan/jbbmo-Introduction-to-Git-and-GitHub
+
+9.Task 9: Fix the typo and submit the first pull request : https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/17547
+
+10. Task 10: Revert the typo and submit a second pull request : https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/17548
