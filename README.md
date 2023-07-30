@@ -2,6 +2,8 @@
 
 # AUTHOR = AKILESH S,
 
+I added Final Project text file which contains all the necessary steps of the Project.
+
 Myself Learning on Git and GitHub.
 
 A calculator that calculates simple interest given principal, the annual rate of interest, and the time period in years.
